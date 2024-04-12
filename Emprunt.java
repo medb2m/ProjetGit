@@ -9,6 +9,9 @@ public class Emprunt {
         this.livre = livre;
         this.user = user;
         this.dateEmprunt = dateEmprunt;
+                this.date2Emprunt = date3Emprunt;
+        this.date1Emprunt = date3Emprunt;
+
     }
 
     // Getters et Setters
