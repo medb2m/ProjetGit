@@ -5,9 +5,10 @@ public class User {
     private int id;
 
     // Constructeur
-    public User(String nom, int id) {
+    public User(String nom, int id, int age) {
         this.nom = nom;
         this.id = id;
+        this.age = age;
     }
 
     // Getters et Setters
