@@ -6,7 +6,8 @@ public class Livre {
     public Livre(String titre, String auteur) {
         this.titre = titre;
         this.auteur = auteur;
-        ggggggggggggggggggggggggggggggggggggg
+        gggggggggggggggggggggggggggggggggggggGGGG
+
     }
 
     // Getters et Setters
