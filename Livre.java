@@ -7,7 +7,7 @@ public class Livre {
         this.titre = titre;
         this.auteur = auteur;
         gggggggggggggggggggggggggggggggggggggGGGG
-
+dattttttttttttttttttttttttttttttttttttttttttttttttttttt
     }
 
     // Getters et Setters
