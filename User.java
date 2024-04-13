@@ -1,4 +1,3 @@
-
 // Classe User
 public class User {
     private String nom;
