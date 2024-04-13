@@ -10,6 +10,8 @@ public class Librairie {
         // Initialisation de la liste catalogue en tant qu'ArrayList vide
         this.cataloguesssss = new ArrayList<>();
         ccccccc
+        this.catalogue = new ArrayList<>();
+        bbbbbbb
     }
 
     // Méthode pour ajouter un livre au catalogue
