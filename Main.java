@@ -12,6 +12,7 @@ public class Main {
         User user2 = new User("Hamza" , 8 );
         User user3 = new User("asmma" , 8 );
         User user4 = new User("Sana"  , 10 );
+        User user5 = new User("toDelete "  , 10 );
 
         List<User> userList = new ArrayList<>();
         userList.add(user1);
