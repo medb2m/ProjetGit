@@ -3,7 +3,7 @@ public class Livre {
     private String auteur;
 
     // Constructeur
-    public Livre(String titre, String auteur) {
+    public Livre(String titre, String auteur , int agee, int id) {
         this.titre = titre;
         this.auteur = auteur;
     }
