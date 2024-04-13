@@ -3,9 +3,10 @@ public class Livre {
     private String auteur;
 
     // Constructeur
-    public Livre(String titre, String auteur , int agee, int id) {
+    public Livre(String titre, String auteur , int agee, int id,int prix) {
         this.titre = titre;
         this.auteur = auteur;
+        this.prix=prix;
         bbbb
         cccccc
     }
