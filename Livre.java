@@ -6,6 +6,7 @@ public class Livre {
     public Livre(String titre, String auteur , int agee, int id) {
         this.titre = titre;
         this.auteur = auteur;
+        bbbb
     }
 
     // Getters et Setters
