@@ -8,7 +8,7 @@ public class Librairie {
     // Constructeur de la classe Librairie
     public Librairie() {
         // Initialisation de la liste catalogue en tant qu'ArrayList vide
-        this.catalogue = new ArrayList<>();
+        this.cataloguesssss = new ArrayList<>();
     }
 
     // Méthode pour ajouter un livre au catalogue
